@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
-  <h1> Hey !</h1>
-  <hr>
+  <h1 align="center"> Hey !</h1>
   <h2>Github Stats :</h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
