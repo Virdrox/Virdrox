@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <tr align="center"><img align="center" src="https://cutt.ly/ZSl6pVo" width="32"/></tr>
       <tr align="center"><img align="center" src="https://cutt.ly/cSl6QlM" width="32"/></tr> 
       <tr align="center"><img align="center" src="https://cutt.ly/iSl6629" width="32"/></tr> 
-      <tr align="center"><img align="center" src="https://cutt.ly/ySzqnhk" width="32"/></tr>
+      <tr align="center"><img align="center" src="https://cutt.ly/5SzwkGX" width="32"/></tr>
     </table>
   </div>
   
