@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
 
 ### Last projects : 
-<img align="center" src"https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
