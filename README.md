@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <body>
   <h1 align="center"> Hey, welcome <img src="https://media.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif" alt="Welcome gif" width="32"> !</h1>
   
-  <h2>About me <img src="https://media.giphy.com/media/ckSZMtJC7VgLuOW73C/giphy.gif" alt="Aboutme gif" width="32"></h2>
+  <h2>About me <img src="https://media.giphy.com/media/j5iFnQGNeFO8m7l5VR/giphy.gif" alt="Aboutme gif" width="32"></h2>
   <div>
     <p align="center"> WIP </p>
   </div>
