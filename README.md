@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr)
+
+### Last projects : 
 ![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr)
