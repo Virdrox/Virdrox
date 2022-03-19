@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a class="github-button" href="https://github.com/Virdrox" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @Virdrox on GitHub">Follow @Virdrox</a>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 ### Stats : 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
