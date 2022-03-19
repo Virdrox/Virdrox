@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
-  <h1 align="center"> Hey, welcome ⚙️ !</h1>
+  <h1 align="center"> Hey, welcome <img src="https://media.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif" width="32"> !</h1>
   
   <h2>About me :</h2>
   <div>
