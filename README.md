@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <h2>Github Stats <img src="https://media.giphy.com/media/9ram4CnmXzDmI7pLkb/giphy.gif" width="32"></h2> 
   <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
-    <img align="center" style="margin-left: 100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
   </div>
   
   <h2>Programming language</h2>
