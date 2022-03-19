@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
 
-  <h2>Last projects :</h2> 
+  <h2>Last projects</h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
+  
+   <h2>Contacts</h2>
+   <a href="https://github.com/Virdrox"><img src="https://giphy.com/stickers/devrock-code-edr-escueladevrock-KzJkzjggfGN5Py6nkT" width="32"></a>
  </body>
