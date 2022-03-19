@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     </table>
   </div>
   
-  <h2>Last projects<img src="https://media.giphy.com/media/ThYvJOgOHnuRNkQahc/giphy.gif" alt="Projects gif" width="32"></h2> 
+  <h2>Last projects<img src="https://media.giphy.com/media/D0jidt0aW8DD2YZkAB/giphy.gif" alt="Projects gif" width="32"></h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
   <h2>Contacts</h2>
   <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
