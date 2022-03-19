@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox)]
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr)]
