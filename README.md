@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
   
    <h2>Contacts</h2>
-   <a href="https://github.com/Virdrox"><img src="https://giphy.com/stickers/devrock-code-edr-escueladevrock-KzJkzjggfGN5Py6nkT" width="32"></a>
+   <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
  </body>
