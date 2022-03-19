@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3)](https://github.com/anuraghazra/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
