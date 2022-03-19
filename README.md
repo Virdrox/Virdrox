@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <h2>Programming language</h2>
   <div>
     <table>
-      <tr><img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/></tr>
-      <tr><img align="center" src="https://cutt.ly/2Sl7rGV" width="32"/></tr>
+      <tr align="center"><img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/></tr>
+      <tr align="center"><img align="center" src="https://cutt.ly/2Sl7rGV" width="32"/></tr>
     </table>
   </di>
   <h2>Last projects</h2> 
