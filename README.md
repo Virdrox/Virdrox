@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <h1 align="center"> Hey, welcome <img src="https://media.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif" alt="Welcome gif" width="32"> !</h1>
   
   <h2>About me <img src="https://media.giphy.com/media/j5iFnQGNeFO8m7l5VR/giphy.gif" alt="Aboutme gif" width="32"></h2>
-  <div>
+  <div align="center">
     <p align="center"> WIP </p>
   </div>
   
