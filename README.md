@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
-  ### Stats : 
+  <h1> Hey !</h1>
+  <hr>
+  <h2>Github Stats :</h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
 
-  ### Last projects : 
+  <h2>Last projects :</h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
  </body>
