@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
   </div>
   
-  <h2>Programming language <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" alt="Language gif" width="32"></h2>
+  <h2>Programming language <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" alt="Language gif" width="32"></h2>
   <div>
     <table>
       <tr align="center" alt="Python logo"><img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/></tr>
