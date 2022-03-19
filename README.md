@@ -20,10 +20,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
   <h2>Programming language</h2>
-  <img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/>
+  <img src="https://cutt.ly/2Sl7rGV" width="32"/>
   <h2>Last projects</h2> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
-  <img src="https://cutt.ly/2Sl7rGV"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/>
   <h2>Contacts</h2>
   <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
  </body>
