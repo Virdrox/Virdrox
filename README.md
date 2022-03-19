@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </div>
   
   <h2>Programming language <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" alt="Language gif" width="32"></h2>
-  <div align="center">
+  <div align="left">
     <table>
       <tr align="center" alt="Python logo"><img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/></tr>
       <tr align="center" alt="Lazarus logo"><img align="center" src="https://cutt.ly/2Sl7rGV" width="32"/></tr>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </div>
   
   <h2>Contacts</h2>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
   </div>
   
