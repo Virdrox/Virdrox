@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
-  <h1 align="center"> Hey, welcome <img src="https://media.giphy.com/media/QssRqdp4BgLk8GMKiu/giphy.gif" width="32"> !</h1>
+  <h1 align="center"> Hey, welc<img src="https://media.giphy.com/media/QssRqdp4BgLk8GMKiu/giphy.gif" width="32">me !</h1>
   
   <h2>About me :</h2>
   <div>
