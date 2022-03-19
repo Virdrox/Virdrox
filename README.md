@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <h1 align="center"> Hey, welcome ⚙️ !</h1>
   <h2>About me :</h2>
   <p align="center"> WIP </p>
-  <h2>Github Stats : <img src="https://giphy.com/stickers/gartnerevents-data-analytics-gartner-9ram4CnmXzDmI7pLkb"/></h2> 
+  <h2>Github Stats : <iframe src="https://giphy.com/embed/9ram4CnmXzDmI7pLkb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gartnerevents-data-analytics-gartner-9ram4CnmXzDmI7pLkb">via GIPHY</a></p></h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
 
