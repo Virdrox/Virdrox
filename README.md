@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
+  
   <h1 align="center"> Hey, welcome <img src="https://media.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif" alt="Welcome gif" width="32"> !</h1>
   
   <h2>About me <img src="https://media.giphy.com/media/j5iFnQGNeFO8m7l5VR/giphy.gif" alt="Aboutme gif" width="32"></h2>
@@ -21,13 +22,13 @@ Here are some ideas to get you started:
   </div>
   
   <h2>Github Stats <img src="https://media.giphy.com/media/9ram4CnmXzDmI7pLkb/giphy.gif" width="32"></h2> 
-  <div>
+  <div align="center">
     <img align="center" alt="Stats github" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
     <img align="center" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
   </div>
   
   <h2>Programming language <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" alt="Language gif" width="32"></h2>
-  <div>
+  <div align="center">
     <table>
       <tr align="center" alt="Python logo"><img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"/></tr>
       <tr align="center" alt="Lazarus logo"><img align="center" src="https://cutt.ly/2Sl7rGV" width="32"/></tr>
@@ -41,7 +42,13 @@ Here are some ideas to get you started:
   </div>
   
   <h2>Last projects<img src="https://media.giphy.com/media/D0jidt0aW8DD2YZkAB/giphy.gif" alt="Projects gif" width="32"></h2> 
-  <a href="https://github.com/Virdrox/SQLtoPYSQLITE3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/></a>
+  <div align="center">
+    <a href="https://github.com/Virdrox/SQLtoPYSQLITE3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Virdrox&repo=SQLtoPYSQLITE3&theme=codeSTACKr"/></a>
+  </div>
+  
   <h2>Contacts</h2>
-  <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
+  <div align="center">
+    <a href="https://github.com/Virdrox"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"></a>
+  </div>
+  
  </body>
