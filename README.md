@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <h1 align="center"> Hey, welcome ⚙️ !</h1>
   <h2>About me :</h2>
   <p align="center"> WIP </p>
-  <h2>Github Stats : <img src="https://media.giphy.com/media/9ram4CnmXzDmI7pLkb/giphy.gif" width="32"></h2> 
+  <h2>Github Stats<img src="https://media.giphy.com/media/9ram4CnmXzDmI7pLkb/giphy.gif" width="32"></h2> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Virdrox&theme=codeSTACKr"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virdrox&theme=codeSTACKr"/>
 
