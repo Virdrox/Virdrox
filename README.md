@@ -6,13 +6,13 @@
   <div align="center">
     <p align="center">
       <!-- - 🔭 I’m currently working on ... -->
-      - 🌱 I’m currently learning in computer science.
+      - 🌱 I’m currently learning in computer science.<br>
       <!-- - 👯 I’m looking to collaborate on ... -->
       <!-- - 🤔 I’m looking for help with ... -->
       <!-- - 💬 Ask me about ... -->
-      - 📫 How to reach me: Github
+      - 📫 How to reach me: Github<br>
       <!-- - 😄 Pronouns: ... -->
-      - ⚡ Fun fact: The water is wet ⚡
+      - ⚡ Fun fact: The water is wet ⚡<br>
     </p>
   </div>
   
